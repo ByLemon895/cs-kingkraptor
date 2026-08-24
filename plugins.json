@@ -1,0 +1,20 @@
+[
+  {
+    "name": "AnimeciX",
+    "pluginUrl": "https://raw.githubusercontent.com/eyupp76/cs-eyupf/master/AnimeciX.cs3",
+    "version": 88,
+    "description": "AnimeciX eklentisi",
+    "authors": ["eyupp76"],
+    "status": 1,
+    "types": ["Anime"]
+  },
+  {
+    "name": "Anizium",
+    "pluginUrl": "https://raw.githubusercontent.com/eyupp76/cs-eyupf/master/Anizium.cs3",
+    "version": 25,
+    "description": "Anizium eklentisi",
+    "authors": ["eyupp76"],
+    "status": 1,
+    "types": ["Anime"]
+  }
+]
